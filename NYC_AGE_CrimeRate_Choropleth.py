@@ -2,13 +2,14 @@
 Name: Shamim Rahman
 Email: shamim.rahman78@myhunter.cuny.edu
 Website URL: https://sramen1999.github.io/NYC_Age_CrimeRate_difference_Heat_Map/
+Title: NYC Age Crime Rate difference Heat Map
+Resources: geoJson file https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
+data set file https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
-NYC_AGE_CrimeRate_Choropleth.py: shows a choropleth map of NYC based on each borough and shows the
+NYC_AGE_CrimeRate_Choropleth.py: shows multiple choropleth map of NYC based on each borough and shows the
 different amount of crime based on different age groups compared to each other on the same threshold_scale
-
 CSci 39542:  Introduction to Data Science
 Hunter College, City University of New York
-
 Updated with ideas from:  https://towardsdatascience.com/using-folium-to-generate-choropleth-map-with-customised-tooltips-12e4cec42af2
 """
 

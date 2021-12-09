@@ -18,14 +18,6 @@ import pandasql as psql
 import folium
 import requests
 
-'''
-geoJson file
-https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
-
-data set file
-https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
-
-'''
 
 # ChoroplethMap maker based on different age_group
 def makeChoroplethMap(age, outFile, geoData, csvData):
